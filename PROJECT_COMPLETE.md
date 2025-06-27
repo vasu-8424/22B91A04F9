@@ -91,4 +91,3 @@ Your URL shortener project exceeds typical backend submission requirements with:
 
 **Repository**: https://github.com/vasu-8424/22B91A04F9.git
 
-**Status**: 🚀 **READY FOR AFFORDMED SUBMISSION**
